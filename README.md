@@ -1,4 +1,1 @@
-# XRPL Bootcamp
-
-### TestNet
-https://testnet.xrpl.org/
+## Django Template
