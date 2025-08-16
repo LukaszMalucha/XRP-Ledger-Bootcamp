@@ -12,7 +12,7 @@ urlpatterns = [
     path('auth/registration/', include('dj_rest_auth.registration.urls')),
     path('auth/', include('user.urls')),
     path('api/', include('api.urls')),
-    path('api/', include('xrpl_ledger.urls')),
+    path('api/', include('xrp_ledger.urls')),
     path('db/', include('db_manager.urls')),
     re_path(r"^.*$", IndexTemplateView.as_view(), name="entry-point")
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

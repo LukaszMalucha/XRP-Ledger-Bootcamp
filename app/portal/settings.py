@@ -63,7 +63,7 @@ INSTALLED_APPS = [
     "db_manager",
     "user",
 
-    "xrpl_ledger"
+    "xrp_ledger"
 
 ]
 
