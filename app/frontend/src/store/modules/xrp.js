@@ -2,15 +2,29 @@ const xrpl = require("xrpl");
 
 const state = {
     ledger_info: null,
+    account_info: null
 };
 
 
 const getters = {
-    getLedgerInfo: state => state.ledger_info
+    getLedgerInfo: state => state.ledger_info,
+    getAccountInfo: state => state.account_info
 };
 
 
 const actions = {
+    async performGenerateAccount({commit}) {
+        const response = await api.generateAccount();
+        if (!response)  {
+          commit("setFormError", "Something went wrong. Try again later")
+          commit("setLoader", false);
+        } else {
+          commit("setAccountInfo", response.account_info);
+          commit("setLoader", false);
+        }
+    },
+
+
     async performDisplayLastLedgerIndex({commit}) {
         const client = new xrpl.Client("wss://xrplcluster.com");
 
@@ -36,10 +50,12 @@ const actions = {
 
 
 const mutations = {
+  setAccountInfo:  (state, account_info) => {
+    state.account_info = account_info;
+  },
   setLedgerInfo:  (state, ledger_info) => {
     state.ledger_info = ledger_info;
   },
-
 };
 
 

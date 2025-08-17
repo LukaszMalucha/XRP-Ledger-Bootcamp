@@ -8,6 +8,16 @@ export default {
   },
 
 
+//  XRP Ledger Logic
+
+// Generate sample account
+  generateAccount() {
+    let endpoint = `/api/generate-account/`;
+    return apiService(endpoint);
+  },
+
+
+
 //  Pagination
   nextPage(next) {
     let endpoint = next;
