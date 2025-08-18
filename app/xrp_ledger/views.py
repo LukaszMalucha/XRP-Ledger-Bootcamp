@@ -46,8 +46,8 @@ class GenerateAccountView(views.APIView):
 
         # Check balances after 1000 drops (.001 XRP) was sent from wallet1 to wallet2
         print("Balances of wallets after Payment tx:")
-        print(get_balance(wallet1.address, client))
-        print(get_balance(wallet2.address, client))
+        balance_1 = get_balance(wallet1.address, client)
+        balance_2 = get_balance(wallet2.address, client)
 
 
-        return Response({"message": "generate account"}, status=status.HTTP_200_OK)
+        return Response({"balance_1": balance_1, "balance_2": balance_2}, status=status.HTTP_200_OK)

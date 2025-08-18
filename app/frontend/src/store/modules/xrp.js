@@ -1,4 +1,5 @@
 const xrpl = require("xrpl");
+import api from "../../api/api.js";
 
 const state = {
     ledger_info: null,
