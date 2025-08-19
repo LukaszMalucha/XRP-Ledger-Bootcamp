@@ -1,17 +1,16 @@
 <template>
-    <div class="dashboard-cards">
-        <div class="row row-cards">
+    <div class="dashboard">
+        <div class="dashboard-nav">
+          <CategoryPagesComponent/>
+        </div>
+        <div class="dashboard-cards">
             <div class="card card-description">
 
               <div class="row plain-element">
                 <div class=" col col-12 col-sm-12 col-md-6 col-lg-3 plain-element">
                   <div class="row plain-element text-start">
                     <div class="input-field col col-sm-9 col-form">
-                      <a @click="generateAccounts()">
-                        <div class="card menu-card">
-                          <h5><i class="fas fa-chevron-right"></i> Generate Account </h5>
-                        </div>
-                      </a>
+
                     </div>
                     <p v-if="getAccountInfo">
                         {{ getAccountInfo }}
@@ -29,10 +28,13 @@
 
 <script>
 import { mapGetters, mapActions } from "vuex";
+import CategoryPagesComponent from "@/components/navigation/CategoryPagesComponent.vue";
+
 
 export default {
   name: 'HomeView',
   components: {
+    CategoryPagesComponent
   },
   methods: {
     ...mapActions( ["performDisplayLastLedgerIndex", "performGenerateAccount"]),

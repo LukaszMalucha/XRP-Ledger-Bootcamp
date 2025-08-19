@@ -20,7 +20,7 @@ const actions = {
           commit("setFormError", "Something went wrong. Try again later")
           commit("setLoader", false);
         } else {
-          commit("setAccountInfo", response.account_info);
+          commit("setAccountInfo", response);
           commit("setLoader", false);
         }
     },
