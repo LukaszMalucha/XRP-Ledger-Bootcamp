@@ -3,7 +3,7 @@
       <div class="row text-start">
           <a @click="generateAccounts()">
             <div class="card menu-card">
-              <a><i class="fas fa-chevron-right"></i> Generate Account </a>
+              <a class="link-quicknav"><i class="fas fa-chevron-right"></i> Generate Account </a>
             </div>
           </a>
       </div>
@@ -15,7 +15,7 @@
 import { mapActions } from "vuex";
 
 export default {
-  name: 'CategoryPagesComponent',
+  name: 'SideBarComponent',
   components: {
 
   },

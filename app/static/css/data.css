@@ -92,6 +92,12 @@
     text-shadow: 0.5px 0.5px 0px rgba(0, 0, 0, 0.1);
 }
 
+.link-quicknav {
+    color: #161d26;
+    font-size: 16px;
+
+}
+
 /*------------------------------------------------------------------------------
     DASHBOARD CARDS
 ------------------------------------------------------------------------------*/
@@ -100,7 +106,7 @@
 .dashboard {
   display: flex;
   align-items: stretch;
-  min-height: 100vh;
+  height: 96vh;
   border: none;
   width: 99%;
   margin: auto;

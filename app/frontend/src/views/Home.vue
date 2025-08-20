@@ -1,7 +1,7 @@
 <template>
     <div class="dashboard">
         <div class="dashboard-nav">
-          <CategoryPagesComponent/>
+          <SideBarComponent/>
         </div>
         <div class="dashboard-cards">
             <div class="card card-description">
@@ -28,13 +28,13 @@
 
 <script>
 import { mapGetters, mapActions } from "vuex";
-import CategoryPagesComponent from "@/components/navigation/CategoryPagesComponent.vue";
+import SideBarComponent from "@/components/navigation/SideBarComponent.vue";
 
 
 export default {
   name: 'HomeView',
   components: {
-    CategoryPagesComponent
+    SideBarComponent
   },
   methods: {
     ...mapActions( ["performDisplayLastLedgerIndex", "performGenerateAccount"]),
