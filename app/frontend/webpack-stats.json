@@ -1,85 +1,195 @@
 {
   "status": "done",
   "assets": {
-    "app.2ba9097028719023.hot-update.js": {
-      "name": "app.2ba9097028719023.hot-update.js",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.2ba9097028719023.hot-update.js",
-      "publicPath": "http://127.0.0.1:8080/app.2ba9097028719023.hot-update.js"
+    "app.08deefbd3a88d167.hot-update.js": {
+      "name": "app.08deefbd3a88d167.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.08deefbd3a88d167.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.08deefbd3a88d167.hot-update.js"
     },
-    "app.2ba9097028719023.hot-update.json": {
-      "name": "app.2ba9097028719023.hot-update.json",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.2ba9097028719023.hot-update.json",
-      "publicPath": "http://127.0.0.1:8080/app.2ba9097028719023.hot-update.json"
+    "app.08deefbd3a88d167.hot-update.json": {
+      "name": "app.08deefbd3a88d167.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.08deefbd3a88d167.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.08deefbd3a88d167.hot-update.json"
     },
-    "app.2e2703e0873da8bb.hot-update.js": {
-      "name": "app.2e2703e0873da8bb.hot-update.js",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.2e2703e0873da8bb.hot-update.js",
-      "publicPath": "http://127.0.0.1:8080/app.2e2703e0873da8bb.hot-update.js"
+    "app.0c93d9ff913f8bc9.hot-update.js": {
+      "name": "app.0c93d9ff913f8bc9.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.0c93d9ff913f8bc9.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.0c93d9ff913f8bc9.hot-update.js"
     },
-    "app.2e2703e0873da8bb.hot-update.json": {
-      "name": "app.2e2703e0873da8bb.hot-update.json",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.2e2703e0873da8bb.hot-update.json",
-      "publicPath": "http://127.0.0.1:8080/app.2e2703e0873da8bb.hot-update.json"
+    "app.0c93d9ff913f8bc9.hot-update.json": {
+      "name": "app.0c93d9ff913f8bc9.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.0c93d9ff913f8bc9.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.0c93d9ff913f8bc9.hot-update.json"
     },
-    "app.51bda2697d83dd65.hot-update.js": {
-      "name": "app.51bda2697d83dd65.hot-update.js",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.51bda2697d83dd65.hot-update.js",
-      "publicPath": "http://127.0.0.1:8080/app.51bda2697d83dd65.hot-update.js"
+    "app.1a998d976010c92c.hot-update.js": {
+      "name": "app.1a998d976010c92c.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.1a998d976010c92c.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.1a998d976010c92c.hot-update.js"
     },
-    "app.51bda2697d83dd65.hot-update.json": {
-      "name": "app.51bda2697d83dd65.hot-update.json",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.51bda2697d83dd65.hot-update.json",
-      "publicPath": "http://127.0.0.1:8080/app.51bda2697d83dd65.hot-update.json"
+    "app.1a998d976010c92c.hot-update.json": {
+      "name": "app.1a998d976010c92c.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.1a998d976010c92c.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.1a998d976010c92c.hot-update.json"
     },
-    "app.62707688a89cf18d.hot-update.js": {
-      "name": "app.62707688a89cf18d.hot-update.js",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.62707688a89cf18d.hot-update.js",
-      "publicPath": "http://127.0.0.1:8080/app.62707688a89cf18d.hot-update.js"
+    "app.230c2a34c6001189.hot-update.js": {
+      "name": "app.230c2a34c6001189.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.230c2a34c6001189.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.230c2a34c6001189.hot-update.js"
     },
-    "app.62707688a89cf18d.hot-update.json": {
-      "name": "app.62707688a89cf18d.hot-update.json",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.62707688a89cf18d.hot-update.json",
-      "publicPath": "http://127.0.0.1:8080/app.62707688a89cf18d.hot-update.json"
+    "app.230c2a34c6001189.hot-update.json": {
+      "name": "app.230c2a34c6001189.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.230c2a34c6001189.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.230c2a34c6001189.hot-update.json"
     },
-    "app.649e80ab6d3ee412.hot-update.js": {
-      "name": "app.649e80ab6d3ee412.hot-update.js",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.649e80ab6d3ee412.hot-update.js",
-      "publicPath": "http://127.0.0.1:8080/app.649e80ab6d3ee412.hot-update.js"
+    "app.2ee4e7ba30d49625.hot-update.js": {
+      "name": "app.2ee4e7ba30d49625.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.2ee4e7ba30d49625.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.2ee4e7ba30d49625.hot-update.js"
     },
-    "app.649e80ab6d3ee412.hot-update.json": {
-      "name": "app.649e80ab6d3ee412.hot-update.json",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.649e80ab6d3ee412.hot-update.json",
-      "publicPath": "http://127.0.0.1:8080/app.649e80ab6d3ee412.hot-update.json"
+    "app.2ee4e7ba30d49625.hot-update.json": {
+      "name": "app.2ee4e7ba30d49625.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.2ee4e7ba30d49625.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.2ee4e7ba30d49625.hot-update.json"
     },
-    "app.72ed59753b35d1f8.hot-update.js": {
-      "name": "app.72ed59753b35d1f8.hot-update.js",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.72ed59753b35d1f8.hot-update.js",
-      "publicPath": "http://127.0.0.1:8080/app.72ed59753b35d1f8.hot-update.js"
+    "app.323a5dac2243b9c1.hot-update.js": {
+      "name": "app.323a5dac2243b9c1.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.323a5dac2243b9c1.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.323a5dac2243b9c1.hot-update.js"
     },
-    "app.72ed59753b35d1f8.hot-update.json": {
-      "name": "app.72ed59753b35d1f8.hot-update.json",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.72ed59753b35d1f8.hot-update.json",
-      "publicPath": "http://127.0.0.1:8080/app.72ed59753b35d1f8.hot-update.json"
+    "app.323a5dac2243b9c1.hot-update.json": {
+      "name": "app.323a5dac2243b9c1.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.323a5dac2243b9c1.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.323a5dac2243b9c1.hot-update.json"
     },
-    "app.cf775b5e247feab2.hot-update.js": {
-      "name": "app.cf775b5e247feab2.hot-update.js",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.cf775b5e247feab2.hot-update.js",
-      "publicPath": "http://127.0.0.1:8080/app.cf775b5e247feab2.hot-update.js"
+    "app.33ca2a37e30a6012.hot-update.js": {
+      "name": "app.33ca2a37e30a6012.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.33ca2a37e30a6012.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.33ca2a37e30a6012.hot-update.js"
     },
-    "app.cf775b5e247feab2.hot-update.json": {
-      "name": "app.cf775b5e247feab2.hot-update.json",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.cf775b5e247feab2.hot-update.json",
-      "publicPath": "http://127.0.0.1:8080/app.cf775b5e247feab2.hot-update.json"
+    "app.33ca2a37e30a6012.hot-update.json": {
+      "name": "app.33ca2a37e30a6012.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.33ca2a37e30a6012.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.33ca2a37e30a6012.hot-update.json"
     },
-    "app.f8ca2a438f3f1ff7.hot-update.js": {
-      "name": "app.f8ca2a438f3f1ff7.hot-update.js",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.f8ca2a438f3f1ff7.hot-update.js",
-      "publicPath": "http://127.0.0.1:8080/app.f8ca2a438f3f1ff7.hot-update.js"
+    "app.48e0c4fe09afd383.hot-update.js": {
+      "name": "app.48e0c4fe09afd383.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.48e0c4fe09afd383.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.48e0c4fe09afd383.hot-update.js"
     },
-    "app.f8ca2a438f3f1ff7.hot-update.json": {
-      "name": "app.f8ca2a438f3f1ff7.hot-update.json",
-      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.f8ca2a438f3f1ff7.hot-update.json",
-      "publicPath": "http://127.0.0.1:8080/app.f8ca2a438f3f1ff7.hot-update.json"
+    "app.48e0c4fe09afd383.hot-update.json": {
+      "name": "app.48e0c4fe09afd383.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.48e0c4fe09afd383.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.48e0c4fe09afd383.hot-update.json"
+    },
+    "app.52695364579c6c62.hot-update.js": {
+      "name": "app.52695364579c6c62.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.52695364579c6c62.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.52695364579c6c62.hot-update.js"
+    },
+    "app.52695364579c6c62.hot-update.json": {
+      "name": "app.52695364579c6c62.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.52695364579c6c62.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.52695364579c6c62.hot-update.json"
+    },
+    "app.6b5209c80c8d2782.hot-update.js": {
+      "name": "app.6b5209c80c8d2782.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.6b5209c80c8d2782.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.6b5209c80c8d2782.hot-update.js"
+    },
+    "app.6b5209c80c8d2782.hot-update.json": {
+      "name": "app.6b5209c80c8d2782.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.6b5209c80c8d2782.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.6b5209c80c8d2782.hot-update.json"
+    },
+    "app.a4773215fbd0cb37.hot-update.js": {
+      "name": "app.a4773215fbd0cb37.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.a4773215fbd0cb37.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.a4773215fbd0cb37.hot-update.js"
+    },
+    "app.a4773215fbd0cb37.hot-update.json": {
+      "name": "app.a4773215fbd0cb37.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.a4773215fbd0cb37.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.a4773215fbd0cb37.hot-update.json"
+    },
+    "app.a731f77e4b6bdeba.hot-update.js": {
+      "name": "app.a731f77e4b6bdeba.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.a731f77e4b6bdeba.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.a731f77e4b6bdeba.hot-update.js"
+    },
+    "app.a731f77e4b6bdeba.hot-update.json": {
+      "name": "app.a731f77e4b6bdeba.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.a731f77e4b6bdeba.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.a731f77e4b6bdeba.hot-update.json"
+    },
+    "app.b123ad4717d355ef.hot-update.js": {
+      "name": "app.b123ad4717d355ef.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.b123ad4717d355ef.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.b123ad4717d355ef.hot-update.js"
+    },
+    "app.b123ad4717d355ef.hot-update.json": {
+      "name": "app.b123ad4717d355ef.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.b123ad4717d355ef.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.b123ad4717d355ef.hot-update.json"
+    },
+    "app.b318743ebe08fbf4.hot-update.js": {
+      "name": "app.b318743ebe08fbf4.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.b318743ebe08fbf4.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.b318743ebe08fbf4.hot-update.js"
+    },
+    "app.b318743ebe08fbf4.hot-update.json": {
+      "name": "app.b318743ebe08fbf4.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.b318743ebe08fbf4.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.b318743ebe08fbf4.hot-update.json"
+    },
+    "app.ce59c578fa8ea878.hot-update.js": {
+      "name": "app.ce59c578fa8ea878.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.ce59c578fa8ea878.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.ce59c578fa8ea878.hot-update.js"
+    },
+    "app.ce59c578fa8ea878.hot-update.json": {
+      "name": "app.ce59c578fa8ea878.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.ce59c578fa8ea878.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.ce59c578fa8ea878.hot-update.json"
+    },
+    "app.d27b8b1e2eb55324.hot-update.js": {
+      "name": "app.d27b8b1e2eb55324.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.d27b8b1e2eb55324.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.d27b8b1e2eb55324.hot-update.js"
+    },
+    "app.d27b8b1e2eb55324.hot-update.json": {
+      "name": "app.d27b8b1e2eb55324.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.d27b8b1e2eb55324.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.d27b8b1e2eb55324.hot-update.json"
+    },
+    "app.e5d1866e8df3d893.hot-update.js": {
+      "name": "app.e5d1866e8df3d893.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.e5d1866e8df3d893.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.e5d1866e8df3d893.hot-update.js"
+    },
+    "app.e5d1866e8df3d893.hot-update.json": {
+      "name": "app.e5d1866e8df3d893.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.e5d1866e8df3d893.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.e5d1866e8df3d893.hot-update.json"
+    },
+    "app.e696002d604c721f.hot-update.js": {
+      "name": "app.e696002d604c721f.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.e696002d604c721f.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.e696002d604c721f.hot-update.js"
+    },
+    "app.e696002d604c721f.hot-update.json": {
+      "name": "app.e696002d604c721f.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.e696002d604c721f.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.e696002d604c721f.hot-update.json"
+    },
+    "app.f28e36c09690bf3f.hot-update.js": {
+      "name": "app.f28e36c09690bf3f.hot-update.js",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.f28e36c09690bf3f.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.f28e36c09690bf3f.hot-update.js"
+    },
+    "app.f28e36c09690bf3f.hot-update.json": {
+      "name": "app.f28e36c09690bf3f.hot-update.json",
+      "path": "C:\\Workshop\\XRP Ledger Basics\\app\\static\\dist\\app.f28e36c09690bf3f.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.f28e36c09690bf3f.hot-update.json"
     },
     "bundle.js": {
       "name": "bundle.js",
@@ -95,10 +205,10 @@
   "chunks": {
     "app": [
       "bundle.js",
-      "app.72ed59753b35d1f8.hot-update.js"
+      "app.08deefbd3a88d167.hot-update.js"
     ]
   },
   "publicPath": "http://127.0.0.1:8080/",
-  "error": "ModuleNotFoundError",
-  "message": "Module not found: Error: Can't resolve '@/components/navigation/CategoryPagesComponent.vue' in 'C:\\Workshop\\XRP Ledger Basics\\app\\frontend\\src\\views'"
+  "error": "ESLintError",
+  "message": "[eslint] \nC:\\Workshop\\XRP Ledger Basics\\app\\frontend\\src\\store\\modules\\common.js\n  1:8  error  'api' is defined but never used     no-unused-vars\n  2:8  error  'router' is defined but never used  no-unused-vars\n\n✖ 2 problems (2 errors, 0 warnings)\n"
 }

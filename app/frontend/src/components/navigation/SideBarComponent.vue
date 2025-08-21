@@ -3,7 +3,7 @@
       <div class="row text-start">
           <a @click="generateAccounts()">
             <div class="card menu-card">
-              <a class="link-quicknav"><i class="fas fa-chevron-right"></i> Generate Account </a>
+              <a class="link-quicknav"><i class="fas fa-chevron-right"></i> Generate Accounts </a>
             </div>
           </a>
       </div>

@@ -15,6 +15,7 @@ const getters = {
 
 const actions = {
     async performGenerateAccount({commit}) {
+        commit("setLoader", true);
         const response = await api.generateAccount();
         if (!response)  {
           commit("setFormError", "Something went wrong. Try again later")

@@ -138,7 +138,6 @@ html {
   height: 48px;
   animation: spin 1.5s linear infinite;
   margin: auto;
-  display: none;
 }
 
 @keyframes spin {

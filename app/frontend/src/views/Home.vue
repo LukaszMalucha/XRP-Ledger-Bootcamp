@@ -4,9 +4,13 @@
           <SideBarComponent/>
         </div>
         <div class="dashboard-cards">
+
             <div class="card card-description">
 
               <div class="row plain-element">
+                <div v-if="getLoader === true" class="row">
+                  <div class="loader" id="loader"></div>
+                </div>
                 <div class=" col col-12 col-sm-12 col-md-6 col-lg-3 plain-element">
                   <div class="row plain-element text-start">
                     <div class="input-field col col-sm-9 col-form">
@@ -44,7 +48,7 @@ export default {
 
   },
   computed: {
-    ...mapGetters( ["getLedgerInfo","getAccountInfo"]),
+    ...mapGetters( ["getLedgerInfo","getAccountInfo","getLoader"]),
   },
   watch: {
 
