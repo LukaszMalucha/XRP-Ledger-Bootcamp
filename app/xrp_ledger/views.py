@@ -30,6 +30,37 @@ class GenerateAccountView(views.APIView):
         return Response({"balance_1": balance_1, "balance_2": balance_2}, status=status.HTTP_200_OK)
 
 
+class TransferXRPView(views.APIView):
+    permission_classes = (IsAuthenticated,)
+
+    def get(self, request, wallet1, wallet2):
+        # Create a client to connect to the test network
+        client = JsonRpcClient("https://s.altnet.rippletest.net:51234")
+
+        # Create a Payment transaction from wallet1 to wallet2
+        payment_tx = Payment(
+            account=wallet1.address,
+            amount="1000",
+            destination=wallet2.address,
+        )
+
+        payment_response = submit_and_wait(payment_tx, client, wallet1)
+        print("Transaction was submitted")
+
+        # Create a "Tx" request to look up the transaction on the ledger
+        tx_response = client.request(Tx(transaction=payment_response.result["hash"]))
+
+        # Check whether the transaction was actually validated on ledger
+        print("Validated:", tx_response.result["validated"])
+
+        # Check balances after 1000 drops (.001 XRP) was sent from wallet1 to wallet2
+        print("Balances of wallets after Payment tx:")
+        balance_1 = get_balance(wallet1.address, client)
+        balance_2 = get_balance(wallet2.address, client)
+
+        return Response({"balance_1": balance_1, "balance_2": balance_2}, status=status.HTTP_200_OK)
+
+
 
 
 # class GenerateAccountView(views.APIView):

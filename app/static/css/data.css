@@ -488,6 +488,7 @@ td {
     transition: background-color .3s;
     max-width: 220px;
     cursor: pointer;
+    margin-bottom: 12px;
 }
 
 .menu-card i {

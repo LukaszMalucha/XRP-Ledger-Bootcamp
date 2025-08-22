@@ -7,6 +7,13 @@
             </div>
           </a>
       </div>
+      <div class="row text-start">
+          <a @click="transferXRP()">
+            <div class="card menu-card">
+              <a class="link-quicknav"><i class="fas fa-chevron-right"></i> Transfer XRP </a>
+            </div>
+          </a>
+      </div>
 
     </div>
 </template>
